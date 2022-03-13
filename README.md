@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Me4ndYou
-- 👀 I’m interested in Android App Development and Data Science
+- 👀 I’m interested in Front-End Web Development and Cyber Security
 - 🌱 I’m currently learning to become a
 - 💞️ I’m looking to collaborate on everything :)
 - 📫 How to reach me @ricsutet_ or hit my email raston3232@gmail.com
